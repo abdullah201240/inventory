@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Django
+db.sqlite3
+.env
+.env.*
+*.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# VSCode
+.vscode/
+
+# Node (for your client folder)
+client/node_modules/
+client/dist/
+client/.angular/
+client/.env
+
+# General
+*.swp
+*.swo
+.idea/
+*.bak
+*.tmp
+*.orig 
